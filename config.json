@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productrelete",
+        "uuid": 9748984,
+        "checksum": "xuyvla"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
